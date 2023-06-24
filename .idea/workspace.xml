@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="097fe4e1-e3ab-4762-bb1a-009610212f0f" name="Changes" comment="" />
+    <list default="true" id="097fe4e1-e3ab-4762-bb1a-009610212f0f" name="Changes" comment="calculator project,based on html,css,js for practice">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,11 +60,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1687593871187</updated>
-      <workItem from="1687593872905" duration="1152000" />
+      <workItem from="1687593872905" duration="1904000" />
     </task>
+    <task id="LOCAL؜-٠٠٠٠١" summary="calculator project,based on html,css,js for practice">
+      <created>1687595121207</created>
+      <option name="number" value="٠٠٠٠١" />
+      <option name="presentableId" value="LOCAL؜-٠٠٠٠١" />
+      <option name="project" value="LOCAL؜" />
+      <updated>1687595121207</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="calculator project,based on html,css,js for practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="calculator project,based on html,css,js for practice" />
   </component>
 </project>
